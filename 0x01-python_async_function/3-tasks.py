@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import asyncio
 from wait_random_file import wait_random
 
