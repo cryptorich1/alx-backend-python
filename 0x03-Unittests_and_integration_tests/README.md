@@ -8,7 +8,7 @@
 
 +Integration tests will test interactions between every part of your code.
 
-# {}Tasks
+# Tasks
 ## 0. Parameterize a unit test<br/>
 
 + Familiarize yourself with the utils.access_nested_map function and understand its purpose. Play with it in the Python console to make sure you understand.<br/>
