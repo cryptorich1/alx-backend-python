@@ -7,6 +7,9 @@
 + Integration tests aim to test a code path end-to-end. In general, only low level functions that make external calls such as HTTP requests, file I/O, database I/O, etc. are mocked.
 
 +Integration tests will test interactions between every part of your code.
++ https://intranet-projects-files.s3.amazonaws.com/webstack/utils.py<br/>
++ https://intranet-projects-files.s3.amazonaws.com/webstack/client.py<br/>
++ https://intranet-projects-files.s3.amazonaws.com/webstack/fixtures.py<br/>
 
 # Tasks
 ## 0. Parameterize a unit test<br/>
